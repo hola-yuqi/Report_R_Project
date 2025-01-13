@@ -3,7 +3,7 @@ I am a data science postgraduate studying at the University of Sheffield. Learni
 ## My area of interest
 - Data analysis 📊  
 - Data visualization 📉
-## contact information
+## Contact Information
 - 📫 **Email**: [yyang284@sheffield.ac.uk]
 
 
