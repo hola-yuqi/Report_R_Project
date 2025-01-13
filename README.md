@@ -28,7 +28,7 @@ You can check out my R code file "INF6027 code.R", which contains the full analy
   install.packages(c("tidyverse", "dplyr", "ggplot2", "corrplot", "factoextra"))  
 - Open a Terminal or Command Prompt and run the following command to clone the project repository:  
   git clone https://github.com/hola-yuqi/Report_R_Project.git    
-- Enter project directory  
+- Enter project directory: 
   cd Report_R_Project  
 - Open the Report_R_Project.Rproj file in RStudio  
 - Run the main R script：  
