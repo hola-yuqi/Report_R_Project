@@ -3,7 +3,7 @@
     "path": "D:/Rstudio/R练习文件/Report_R_Project/INF6027 code.R",
     "project_path": "INF6027 code.R",
     "type": "r_source",
-    "hash": "3735678862",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1736758268246.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "68,35",
-        "scrollLine": "20"
+        "cursorPosition": "115,0",
+        "scrollLine": "95"
     },
     "folds": "",
-    "lastKnownWriteTime": 1736763930,
+    "lastKnownWriteTime": 1736766462,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1736763930,
+    "last_content_update": 1736766462069,
     "read_only": false,
     "read_only_alternatives": []
 }
