@@ -24,8 +24,8 @@ This study analyzed the risk of Food access in different regions, using cluster 
 You can check out my R code file "INF6027 code.R", which contains the full analysis script and detailed comments.  
 
 ## **📥 Instructions for Downloading and Running the Code**
-  (1)Make sure you have the required packages installed in your R environment. Use the following command to install:   
-     install.packages(c("tidyverse", "dplyr", "ggplot2", "corrplot", "factoextra"))  
+  -Make sure you have the required packages installed in your R environment. Use the following command to install:   
+    install.packages(c("tidyverse", "dplyr", "ggplot2", "corrplot", "factoextra"))  
   (2)Open a Terminal or Command Prompt and run the following command to clone the project repository:  
      git clone https://github.com/hola-yuqi/Report_R_Project.git    
   (3)Enter project directory  
